@@ -113,19 +113,23 @@ background-color: beige;
     margin-bottom: 16px;
     resize: both;
   }
-  
+  .display{
+    display: flex;
+  }
   .mycontact{
     background-color: beige;
-    display: flex;
+    padding: 50px;
   }
  
   .contactus{
     border: 4px burlywood;
     background-color: beige;
-    padding: 20px; 
     display: flex;
+    padding: 100px;
+  }
+  footer{
+    background-color: rgb(156, 135, 108);
   }
   .social{
-    background-color:burlywood;
-    margin-top: 50px;
+ 
   }
