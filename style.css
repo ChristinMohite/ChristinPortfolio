@@ -1,0 +1,131 @@
+body{
+  margin:0;
+}
+.navbar{
+  border: cornsilk;
+background-color: beige;
+  display: flex;
+  justify-content: space-between;
+}
+.divintro{
+  display: flex;
+  background-color:burlywood;
+  justify-content: space-evenly;
+  height: 80vh;
+  align-items: center;
+  text-align: justify;
+}
+p{
+  width: 40%;
+}
+
+.title1{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  margin-left:20px;
+
+}
+.navitems{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  justify-content:space-evenly;
+  text-align: justify;
+  }
+  .items{
+    padding: 11px;
+    border-radius: 20px;
+  }
+  a:hover{
+    background-color: rgb(250, 210, 150);
+
+  }
+  .skills{
+  
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    background-color: rgb(177, 128, 76);
+   
+  }
+  .title2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left:20px;
+  
+  }
+  .myskills{
+background-color: beige;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+  }
+  li{
+    padding-bottom: 30px;
+  }
+  .education{
+    display: flex;
+    background-color: rgb(177, 128, 76);
+   
+  }
+  .title3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left:20px;
+  }
+  .myedu{
+    background-color: beige;
+    display: flex;
+  }
+  .experience{
+    display: flex;
+    background-color: rgb(177, 128, 76);
+   
+  }
+  .title4{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left:20px;
+  }
+  .myexp{
+    background-color: beige;
+    display: flex;
+  }
+  .contact{
+    display: flex;
+    background-color: rgb(177, 128, 76);
+  }
+  .title5{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left:20px;
+  }
+  
+  input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    resize: both;
+  }
+  
+  .mycontact{
+    background-color: beige;
+    display: flex;
+  }
+ 
+  .contactus{
+    border: 4px burlywood;
+    background-color: beige;
+    padding: 20px; 
+    display: flex;
+  }
+  .social{
+    background-color:burlywood;
+    margin-top: 50px;
+  }
