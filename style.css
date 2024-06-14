@@ -182,4 +182,8 @@ background-color: beige;
     display: flex;
     flex-direction: column;
    }
+   .social{
+    display: flex;
+    justify-content: space-between;
+   }
     }
