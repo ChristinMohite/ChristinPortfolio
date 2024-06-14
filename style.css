@@ -150,6 +150,10 @@ background-color: beige;
     display: flex;
     flex-direction: column;
    }
+   .myskills ul{
+    display: flex;
+    justify-content: space-evenly;
+   }
    .education{
     display: flex;
     flex-direction: column;
