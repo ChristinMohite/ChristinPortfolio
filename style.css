@@ -14,7 +14,7 @@ background-color: beige;
   align-items: center;
   text-align: justify;
 }
-p{
+.myintro{
   width: 40%;
 }
 
@@ -117,14 +117,15 @@ background-color: beige;
   }
   .mycontact{
     background-color: beige;
-    padding: 50px;
+    padding-left: 50px;
+  padding-top: 30px;
   }
  
   .contactus{
     border: 4px burlywood;
     background-color: beige;
     display: flex;
-    padding: 100px;
+    padding: 50px;
   }
   footer{
     background-color: rgb(156, 135, 108);
@@ -142,6 +143,9 @@ background-color: beige;
     display: flex;
     flex-direction: column;
    }
+   .myintro{
+    width: 90%;
+  }
    .skills{
     display: flex;
     flex-direction: column;
